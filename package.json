@@ -1,7 +1,6 @@
 {
   "name": "@romanevd/ajs3",
   "version": "1.0.0",
-  "description": "",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +14,6 @@
   "bugs": {
     "url": "https://github.com/RomanEvd/ajs3/issues"
   },
-  "homepage": "https://github.com/RomanEvd/ajs3#readme"
+  "homepage": "https://github.com/RomanEvd/ajs3#readme",
+  "description": ""
 }
